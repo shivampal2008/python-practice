@@ -1,0 +1,1 @@
+print(student.update["marks":"90"])
